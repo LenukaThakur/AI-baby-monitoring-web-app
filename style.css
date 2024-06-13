@@ -1,0 +1,19 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+#status{
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#Object{
+    border-radius: 10px;
+}
+
+canvas{
+    border-radius: 15px;
+    border: darkmagenta 5px dotted;
+}
